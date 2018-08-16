@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#7986CB</color>
+    <color name="lighRose">#CDB7B5</color>
+    <color name="green">#9CCC65</color>
+    <color name="red">#ff5733</color>
+    <color name="lightred">#f24621</color>
+    <color name="pageback">#eceff1</color>
+    <color name="white">#FAFAFA</color>
+    <color name="edittextbackgrundtint">#FAFAFA</color>
+    <color name="link_water">#CFD0D5</color>
+    <color name="alice_blue">#F9FAFB</color>
+    <color name="radical_red">#ff4e5d</color>
+    <color name="text_color">#90a4ae</color>
+    <color name="yellow">#FCC032</color>
+
+    <color name="black">#263238</color>
+</resources>
